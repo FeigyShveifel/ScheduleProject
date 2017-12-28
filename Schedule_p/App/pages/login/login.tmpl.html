@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html >
+<head>
+    <title>{{title}}</title>
+
+    <style>
+        #username2 {
+            font-family: fantasy;
+            text-align: center;
+            color: rgba(130, 130, 120, 0.15);
+            font-size: 4em;
+            color: #C94700;
+            text-shadow: 0px 1px 2px #e5e5e5, 0 0 0 rgba(50, 50, 0, 0.3), 0px 1px 2px #e5e5e5, 1px 1px 0px #ffffff;
+            margin: 0px;
+        }
+    </style>
+    <meta name="NetsparkQuiltingResult" total-length="2364" removed="0" rules-found="w3301,w2852,w6839,w5477,w5478,w3497,w2144" />
+
+</head>
+<body ng-app="SlApp.login" ng-controller="LoginController"  style="background-color: orange">
+    <div class="header">
+
+        <react-component id="username2" name="Hello" props="person" />
+        <small>
+            <code>&lt;react-component name="Hello" props="person"/&gt;</code>
+        </small>
+
+        <div><hello fname="person.fname" /></div>
+        <small>
+            <code>&lt;hello fname="person.fname" lname="person.pass"/&gt;</code>
+        </small>
+
+    </div>
+    <div>
+        <div class="container ng-scope">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4 well">
+                    <div role="form">
+                        <div class="form-group">
+                            <!--<label for="name">שם:</label>-->
+                            <input ng-model="person.fname" name="name" class="form-control" placeholder="name" />
+                        </div>
+                        <div class="form-group">
+                            <!--<label for="password">סיסמא:</label>-->
+                            <input ng-model="person.pass" name="password" type="password" class="form-control" placeholder="password" />
+                        </div>
+                        <div class="form-group">
+                            <button ng-disabled="!person.fname" class="btn btn-primary" ng-click="login()">כניסה</button>
+                            <span ng-bind="spSuccess" class="label"
+                                  ng-class="{'label-success': isSuccess , 'label-danger': !isSuccess }"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <link href="../../../Content/bootstrap.css" rel="stylesheet" />
+    <script src="../../../Scripts/angular.js"></script>
+    <script src="../app.js"></script>
+    <script src="../app.route.js"></script>
+    <script src="../../../Scripts/react/react.js"></script>
+    <script src="../../../Scripts/react/react-dom.js"></script>
+    <script src="../../../Scripts/react/ngReact.js"></script>
+   
+    <script src="login.js"></script>
+
+</body>
+</html>

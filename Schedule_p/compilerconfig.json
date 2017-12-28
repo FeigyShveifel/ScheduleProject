@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "App/pages/sch.app.css",
+    "inputFile": "App/pages/sch.app.scss"
+  },
+  {
+    "outputFile": "Content/_bootstrap-datetimepicker.css",
+    "inputFile": "Content/_bootstrap-datetimepicker.less"
+  }
+]

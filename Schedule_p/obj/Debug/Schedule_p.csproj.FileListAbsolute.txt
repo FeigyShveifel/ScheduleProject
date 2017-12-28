@@ -1,0 +1,503 @@
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\ApplicationInsights.config
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\csc.exe
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\vbc.exe
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Schedule_p.dll.config
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Schedule_p.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Schedule_p.pdb
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Antlr3.Runtime.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Newtonsoft.Json.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Helpers.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Http.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Mvc.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Optimization.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Razor.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\WebGrease.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Newtonsoft.Json.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Helpers.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Http.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Mvc.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Optimization.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.Razor.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.xml
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\bin\Antlr3.Runtime.pdb
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csprojResolveAssemblyReference.cache
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\obj\Debug\Schedule_p.dll
+D:\Documentsr\Desktop\Schedule_p\Schedule_p\obj\Debug\Schedule_p.pdb
+G:\Schedule_p\Schedule_p\bin\ApplicationInsights.config
+G:\Schedule_p\Schedule_p\bin\roslyn\csc.exe
+G:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Schedule_p\Schedule_p\bin\roslyn\System.Collections.Immutable.dll
+G:\Schedule_p\Schedule_p\bin\roslyn\System.Reflection.Metadata.dll
+G:\Schedule_p\Schedule_p\bin\roslyn\vbc.exe
+G:\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe
+G:\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe.config
+G:\Schedule_p\Schedule_p\bin\Schedule_p.dll.config
+G:\Schedule_p\Schedule_p\bin\Schedule_p.dll
+G:\Schedule_p\Schedule_p\bin\Schedule_p.pdb
+G:\Schedule_p\Schedule_p\bin\Antlr3.Runtime.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.Web.Infrastructure.dll
+G:\Schedule_p\Schedule_p\bin\Newtonsoft.Json.dll
+G:\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.Helpers.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.Http.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.Mvc.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.Optimization.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.Razor.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.WebPages.dll
+G:\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.dll
+G:\Schedule_p\Schedule_p\bin\WebGrease.dll
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.xml
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.xml
+G:\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.xml
+G:\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.xml
+G:\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Schedule_p\Schedule_p\bin\Newtonsoft.Json.xml
+G:\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.Helpers.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.Http.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.Mvc.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.Optimization.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.Razor.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.WebPages.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.xml
+G:\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.xml
+G:\Schedule_p\Schedule_p\bin\Antlr3.Runtime.pdb
+G:\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csprojResolveAssemblyReference.cache
+G:\Schedule_p\Schedule_p\obj\Debug\Schedule_p.dll
+G:\Schedule_p\Schedule_p\obj\Debug\Schedule_p.pdb
+F:\Schedule_p\Schedule_p\bin\ApplicationInsights.config
+F:\Schedule_p\Schedule_p\bin\roslyn\csc.exe
+F:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Schedule_p\Schedule_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Schedule_p\Schedule_p\bin\roslyn\System.Collections.Immutable.dll
+F:\Schedule_p\Schedule_p\bin\roslyn\System.Reflection.Metadata.dll
+F:\Schedule_p\Schedule_p\bin\roslyn\vbc.exe
+F:\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe
+F:\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe.config
+F:\Schedule_p\Schedule_p\bin\Schedule_p.dll.config
+F:\Schedule_p\Schedule_p\bin\Schedule_p.dll
+F:\Schedule_p\Schedule_p\bin\Schedule_p.pdb
+F:\Schedule_p\Schedule_p\bin\Antlr3.Runtime.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.Web.Infrastructure.dll
+F:\Schedule_p\Schedule_p\bin\Newtonsoft.Json.dll
+F:\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.Helpers.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.Http.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.Mvc.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.Optimization.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.Razor.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.WebPages.dll
+F:\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.dll
+F:\Schedule_p\Schedule_p\bin\WebGrease.dll
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.xml
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.xml
+F:\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.xml
+F:\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.xml
+F:\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Schedule_p\Schedule_p\bin\Newtonsoft.Json.xml
+F:\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.Helpers.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.Http.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.Mvc.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.Optimization.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.Razor.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.WebPages.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.xml
+F:\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.xml
+F:\Schedule_p\Schedule_p\bin\Antlr3.Runtime.pdb
+F:\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csprojResolveAssemblyReference.cache
+F:\Schedule_p\Schedule_p\obj\Debug\Schedule_p.dll
+F:\Schedule_p\Schedule_p\obj\Debug\Schedule_p.pdb
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\ApplicationInsights.config
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\csc.exe
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\System.Collections.Immutable.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\System.Reflection.Metadata.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\vbc.exe
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe.config
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Schedule_p.dll.config
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Schedule_p.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Schedule_p.pdb
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Antlr3.Runtime.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.Web.Infrastructure.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Newtonsoft.Json.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Helpers.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Http.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Mvc.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Optimization.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Razor.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\WebGrease.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Newtonsoft.Json.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Helpers.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Http.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Mvc.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Optimization.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Razor.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\Antlr3.Runtime.pdb
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csprojResolveAssemblyReference.cache
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\obj\Debug\Schedule_p.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\obj\Debug\Schedule_p.pdb
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\BundleTransformer.Core.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\BundleTransformer.SassAndScss.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\LibSassHost.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\RoyT.TimePicker.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\LibSassHost.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן\Schedule_p\Schedule_p\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\ApplicationInsights.config
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\csc.exe
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\vbc.exe
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Schedule_p.dll.config
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Schedule_p.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Schedule_p.pdb
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Antlr3.Runtime.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\BundleTransformer.Core.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\BundleTransformer.SassAndScss.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\LibSassHost.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Newtonsoft.Json.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\RoyT.TimePicker.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Helpers.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Http.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Mvc.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Optimization.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Razor.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\WebGrease.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\LibSassHost.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Newtonsoft.Json.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Helpers.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Http.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Mvc.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Optimization.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.Razor.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.xml
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\Antlr3.Runtime.pdb
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csprojResolveAssemblyReference.cache
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\obj\Debug\Schedule_p.dll
+C:\Users\hitmachut\Desktop\Schedule_p\Schedule_p\obj\Debug\Schedule_p.pdb
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\ApplicationInsights.config
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\csc.exe
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\System.Collections.Immutable.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\System.Reflection.Metadata.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\vbc.exe
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe.config
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Schedule_p.dll.config
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Schedule_p.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Schedule_p.pdb
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Antlr3.Runtime.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\BundleTransformer.Core.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\BundleTransformer.SassAndScss.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\LibSassHost.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.Web.Infrastructure.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Newtonsoft.Json.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\RoyT.TimePicker.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Helpers.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Http.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Mvc.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Optimization.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Razor.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\WebGrease.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\LibSassHost.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Newtonsoft.Json.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Helpers.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Http.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Mvc.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Optimization.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Razor.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.xml
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\Antlr3.Runtime.pdb
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\bin\ru-ru\BundleTransformer.Core.resources.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csprojResolveAssemblyReference.cache
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\obj\Debug\Schedule_p.dll
+Y:\G1\Shvifel_f\My_Projects\Angular\מעודכן!!!!!\Schedule_p\Schedule_p\obj\Debug\Schedule_p.pdb
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\ApplicationInsights.config
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\csc.exe
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\vbc.exe
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Schedule_p.dll.config
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Schedule_p.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Schedule_p.pdb
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Antlr3.Runtime.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\BundleTransformer.Core.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\BundleTransformer.SassAndScss.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\LibSassHost.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Newtonsoft.Json.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\RoyT.TimePicker.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Helpers.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Http.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Mvc.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Optimization.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Razor.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\WebGrease.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\LibSassHost.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Newtonsoft.Json.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Helpers.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Http.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Mvc.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Optimization.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.Razor.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.xml
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\Antlr3.Runtime.pdb
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\bin\ru-ru\BundleTransformer.Core.resources.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csprojResolveAssemblyReference.cache
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\obj\Debug\Schedule_p.dll
+D:\Documentsr\Desktop\Angular\1111מעודכן!!!!!\Schedule_p\Schedule_p\obj\Debug\Schedule_p.pdb
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\ApplicationInsights.config
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\csc.exe
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\vbc.exe
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Schedule_p.dll.config
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Schedule_p.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Schedule_p.pdb
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Antlr3.Runtime.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\BundleTransformer.Core.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\BundleTransformer.SassAndScss.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\LibSassHost.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Newtonsoft.Json.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\RoyT.TimePicker.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Helpers.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Http.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Mvc.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Optimization.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Razor.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\WebGrease.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\LibSassHost.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.Web.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.ApplicationInsights.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Newtonsoft.Json.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Net.Http.Formatting.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Helpers.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Http.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Http.WebHost.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Mvc.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Optimization.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.Razor.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.Deployment.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\System.Web.WebPages.Razor.xml
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\Antlr3.Runtime.pdb
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csprojResolveAssemblyReference.cache
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\obj\Debug\Schedule_p.csproj.CoreCompileInputs.cache
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\obj\Debug\Schedule_p.dll
+C:\Users\say 1\Documents\מלכה אייזנשטיין\פייגי\מעודכן\Schedule_p\Schedule_p\obj\Debug\Schedule_p.pdb

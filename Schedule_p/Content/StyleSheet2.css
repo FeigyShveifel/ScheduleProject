@@ -1,0 +1,60 @@
+﻿body {
+}
+
+
+        .PageAnimation {
+      /*margin-top: 40px;*/
+    width: 500px;
+            height: 500px;
+            /*border: 1px solid red;*/
+}
+
+    .PageAnimation.ng-enter {
+        transition: 1.5s linear all;
+                left: -40%;
+
+    }
+
+        /* The starting CSS styles for the enter animation */
+        .PageAnimation.ng-enter.ng-enter-active {
+            left: 0%;
+                position: absolute;
+        }
+
+    .PageAnimation.ng-leave {
+        transition: 1.5s linear all;
+                left: 0%;
+                opacity:1;
+    }
+
+        .PageAnimation.ng-leave.ng-leave-active {
+            position: absolute;
+                left: -40%;
+                opacity:0;
+        }
+
+
+
+ /*.HomeAnimation.ng-enter {
+        transition: 1.5s linear all;
+               opacity:0.02;
+
+    }
+
+        /* The starting CSS styles for the enter animation */
+        /*.HomeAnimation.ng-enter.ng-enter-active {
+           
+                position: absolute;
+                opacity:1;
+        }*/
+
+
+.clockAnimation  {
+    
+   
+     position: absolute; 
+     left: 58%;
+     
+}
+  
+       
