@@ -28,6 +28,7 @@
     </NuGetPackageImportStamp>
     <TargetFrameworkProfile />
     <TypeScriptToolsVersion>1.8</TypeScriptToolsVersion>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -213,6 +214,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App\pages\Content\angular-clock.css" />
+    <Content Include="App\pages\Content\bootstrap.css" />
+    <Content Include="App\pages\Content\bootstrap.min.css" />
+    <Content Include="App\pages\Content\demo.css" />
+    <Content Include="App\pages\Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="App\pages\Content\Site.css" />
+    <Content Include="App\pages\Content\StyleSheet1.css" />
+    <Content Include="App\pages\Content\StyleSheet2.css" />
     <Content Include="App\pages\core\directive\time.drv.js" />
     <Content Include="App\pages\app.js" />
     <Content Include="App\pages\core\directive\clock.drv.js" />
@@ -234,6 +243,48 @@
     </Content>
     <Content Include="App\pages\schedule\schedule.ctrl.js" />
     <Content Include="App\pages\schedule\schedule.tmpl.html" />
+    <Content Include="App\pages\Scripts\ai.0.22.9-build00167.js" />
+    <Content Include="App\pages\Scripts\ai.0.22.9-build00167.min.js" />
+    <Content Include="App\pages\Scripts\angular-animate.js" />
+    <Content Include="App\pages\Scripts\angular-clock.js" />
+    <Content Include="App\pages\Scripts\angular-clock.min.js" />
+    <Content Include="App\pages\Scripts\angular-route.js" />
+    <Content Include="App\pages\Scripts\angular-route.min.js" />
+    <Content Include="App\pages\Scripts\angular.js" />
+    <Content Include="App\pages\Scripts\angular.min.js" />
+    <Content Include="App\pages\Scripts\bootstrap-datepicker.js" />
+    <Content Include="App\pages\Scripts\bootstrap-datepicker.min.js" />
+    <Content Include="App\pages\Scripts\bootstrap-datetimepicker.js" />
+    <Content Include="App\pages\Scripts\bootstrap-datetimepicker.min.js" />
+    <Content Include="App\pages\Scripts\bootstrap.js" />
+    <Content Include="App\pages\Scripts\bootstrap.min.js" />
+    <None Include="App\pages\Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="App\pages\Scripts\jquery-1.10.2.js" />
+    <Content Include="App\pages\Scripts\jquery-1.10.2.min.js" />
+    <Content Include="App\pages\Scripts\jquery.min.js" />
+    <Content Include="App\pages\Scripts\modernizr-2.6.2.js" />
+    <Content Include="App\pages\Scripts\moment-with-locales.js" />
+    <Content Include="App\pages\Scripts\moment-with-locales.min.js" />
+    <Content Include="App\pages\Scripts\moment.js" />
+    <Content Include="App\pages\Scripts\moment.min.js" />
+    <Content Include="App\pages\Scripts\react\app.js" />
+    <Content Include="App\pages\Scripts\react\Hello.jsx" />
+    <Content Include="App\pages\Scripts\react\index.html" />
+    <Content Include="App\pages\Scripts\react\ngReact.js" />
+    <Content Include="App\pages\Scripts\react\ngReact.min.js" />
+    <Content Include="App\pages\Scripts\react\react-dom-server.js" />
+    <Content Include="App\pages\Scripts\react\react-dom-server.min.js" />
+    <Content Include="App\pages\Scripts\react\react-dom.js" />
+    <Content Include="App\pages\Scripts\react\react-dom.min.js" />
+    <Content Include="App\pages\Scripts\react\react-with-addons.js" />
+    <Content Include="App\pages\Scripts\react\react-with-addons.min.js" />
+    <Content Include="App\pages\Scripts\react\react.js" />
+    <Content Include="App\pages\Scripts\react\react.min.js" />
+    <Content Include="App\pages\Scripts\respond.js" />
+    <Content Include="App\pages\Scripts\respond.min.js" />
+    <Content Include="App\pages\Scripts\snap.svg-min.js" />
+    <Content Include="App\pages\Scripts\ui-bootstrap-tpls-0.10.0.min.js" />
+    <None Include="App\pages\Scripts\_references.js" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\angular-clock.css" />
     <Content Include="Content\bootstrap.css" />
@@ -361,6 +412,84 @@
     <Content Include="Content\_bootstrap-datetimepicker.less" />
     <Content Include="Content\bootstrap-datetimepicker-build.less" />
     <Content Include="App\pages\login\login.jsx" />
+    <Content Include="App\pages\Content\bootstrap-datetimepicker-build.less" />
+    <Content Include="App\pages\Content\bootstrap\alerts.less" />
+    <Content Include="App\pages\Content\bootstrap\badges.less" />
+    <Content Include="App\pages\Content\bootstrap\bootstrap.less" />
+    <Content Include="App\pages\Content\bootstrap\breadcrumbs.less" />
+    <Content Include="App\pages\Content\bootstrap\button-groups.less" />
+    <Content Include="App\pages\Content\bootstrap\buttons.less" />
+    <Content Include="App\pages\Content\bootstrap\carousel.less" />
+    <Content Include="App\pages\Content\bootstrap\close.less" />
+    <Content Include="App\pages\Content\bootstrap\code.less" />
+    <Content Include="App\pages\Content\bootstrap\component-animations.less" />
+    <Content Include="App\pages\Content\bootstrap\dropdowns.less" />
+    <Content Include="App\pages\Content\bootstrap\forms.less" />
+    <Content Include="App\pages\Content\bootstrap\glyphicons.less" />
+    <Content Include="App\pages\Content\bootstrap\grid.less" />
+    <Content Include="App\pages\Content\bootstrap\input-groups.less" />
+    <Content Include="App\pages\Content\bootstrap\jumbotron.less" />
+    <Content Include="App\pages\Content\bootstrap\labels.less" />
+    <Content Include="App\pages\Content\bootstrap\list-group.less" />
+    <Content Include="App\pages\Content\bootstrap\media.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\alerts.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\background-variant.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\border-radius.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\buttons.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\center-block.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\clearfix.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\forms.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\gradients.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\grid-framework.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\grid.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\hide-text.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\image.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\labels.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\list-group.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\nav-divider.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\nav-vertical-align.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\opacity.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\pagination.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\panels.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\progress-bar.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\reset-filter.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\reset-text.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\resize.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\responsive-visibility.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\size.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\tab-focus.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\table-row.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\text-emphasis.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\text-overflow.less" />
+    <Content Include="App\pages\Content\bootstrap\mixins\vendor-prefixes.less" />
+    <Content Include="App\pages\Content\bootstrap\modals.less" />
+    <Content Include="App\pages\Content\bootstrap\navbar.less" />
+    <Content Include="App\pages\Content\bootstrap\navs.less" />
+    <Content Include="App\pages\Content\bootstrap\normalize.less" />
+    <Content Include="App\pages\Content\bootstrap\pager.less" />
+    <Content Include="App\pages\Content\bootstrap\pagination.less" />
+    <Content Include="App\pages\Content\bootstrap\panels.less" />
+    <Content Include="App\pages\Content\bootstrap\popovers.less" />
+    <Content Include="App\pages\Content\bootstrap\print.less" />
+    <Content Include="App\pages\Content\bootstrap\progress-bars.less" />
+    <Content Include="App\pages\Content\bootstrap\responsive-embed.less" />
+    <Content Include="App\pages\Content\bootstrap\responsive-utilities.less" />
+    <Content Include="App\pages\Content\bootstrap\scaffolding.less" />
+    <Content Include="App\pages\Content\bootstrap\tables.less" />
+    <Content Include="App\pages\Content\bootstrap\theme.less" />
+    <Content Include="App\pages\Content\bootstrap\thumbnails.less" />
+    <Content Include="App\pages\Content\bootstrap\tooltip.less" />
+    <Content Include="App\pages\Content\bootstrap\type.less" />
+    <Content Include="App\pages\Content\bootstrap\utilities.less" />
+    <Content Include="App\pages\Content\bootstrap\variables.less" />
+    <Content Include="App\pages\Content\bootstrap\wells.less" />
+    <Content Include="App\pages\Content\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="App\pages\Content\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="App\pages\Content\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="App\pages\Content\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="App\pages\Content\_bootstrap-datetimepicker.less" />
+    <Content Include="App\pages\Scripts\jquery-1.10.2.min.map" />
     <None Include="compilerconfig.json" />
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
